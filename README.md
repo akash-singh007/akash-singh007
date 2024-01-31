@@ -8,7 +8,9 @@
 <br>
 Connect with me: 
 
-![](https://leetcard.jacoblin.cool/peterparker007?theme=unicorn,hide=ranking)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-singh007&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-singh007&layout=compact) ![](https://leetcard.jacoblin.cool/peterparker007?theme=unicorn,hide=ranking)
+
+
 
