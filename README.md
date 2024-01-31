@@ -8,4 +8,5 @@
 <br>
 Connect with me: 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/peterparker007)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
