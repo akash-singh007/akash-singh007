@@ -8,4 +8,4 @@
 <br>
 Connect with me: 
 
-![Leetcode Stats](https://leetcode.com/peterparker007/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/peterparker007/)
