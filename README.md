@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Javascript, NodeJs.**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/42j42Zd](https://bit.ly/42j42Zd)
+- 👨‍💻 All of my projects are available at [Projects](https://bit.ly/42j42Zd)
 
 - 💬 Ask me about **Frontend Technologies, Data Structures & Algorithms.**
 
