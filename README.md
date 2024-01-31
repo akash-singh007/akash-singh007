@@ -8,5 +8,5 @@
 <br>
 Connect with me: 
 
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/peterparker007?theme=unicorn,hide=ranking)
+
