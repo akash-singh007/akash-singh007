@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **singhakashkumar101@gmail.com**
 
-- 📄 Know about my experiences [CV](https://bit.ly/42j42Zd)
+- 📄 Know about my experiences [CV](https://bit.ly/48T9Da1)
 
 - ⚡ Fun fact **MY COOKING SKILLs ARE FAR BETTER THAN MY CODING SKILLs**
 
